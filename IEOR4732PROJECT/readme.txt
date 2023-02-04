@@ -1,0 +1,3 @@
+For Windows, make sure pypigs.cp36-win_amd64.pyd and 1MLibor1114 in the directory when running CapsCalibraion.ipynb.For MacOS, make sure pypigs.cpython-37m-darwin.so and 1MLibor1114 in the directory when running CapsCalibraion.ipynb.If still fail to import pypigs, rebuild C++ project pypigs  in the same computer and find the .pyd and .so file in debug directory.
+
+More instructions please see the last part of the report CapsCalibration.pdf.
